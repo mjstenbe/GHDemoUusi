@@ -1,0 +1,1 @@
+# Tämä on JavaScript-kurssin repository
